@@ -22,7 +22,9 @@
     "lucide-react": "^0.577.0",
     "next": "^16.1.6",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react-dom": "^19.2.0",
+    "@emnapi/core": "1.11.3",
+    "@emnapi/runtime": "1.11.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.18",
